@@ -12,4 +12,4 @@ for eg
 ## pie chart
 ![](https://github.com/xeon-zolt/ILUGD-telegram-analysis/blob/master/PieOfNumberOfMessages.png?raw=true)
 
-you can help in creating functions to do more analysis on this data 
+#### you can help in creating functions to do more analysis on this data 
